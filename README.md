@@ -1,8 +1,8 @@
 # JUDUL PROJECT PCD
 ## Nama Anggota
+###  Baiq Mutia Dewi Edelweis   : F1D02310107
 ###  I Nyoman Sudarsana         : F1D02310010
 ###  Reni Sopiani               : F1D02310090
-###  Baiq Mutia Dewi Edelweis   : F1D02310107
 ###  Fiki Andrian               : F1D02310112
 
 # Project Overview
